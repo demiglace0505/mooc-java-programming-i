@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="86d30483-2d3e-48ff-beef-b0a33ba5f319" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_01.Sandbox/src/main/java/Sandbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_01.Sandbox/src/main/java/Sandbox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_01.Sandbox/target/classes/Sandbox.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_01.Sandbox/target/classes/Sandbox.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_24.SpeedingTicket/target/classes/SpeedingTicket.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_24.SpeedingTicket/target/classes/SpeedingTicket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_14.Counting/target/classes/Counting.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_14.Counting/target/classes/Counting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_14.Counting/target/test-classes/CountingTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_14.Counting/target/test-classes/CountingTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_15.CountingToHundred/target/classes/CountingToHundred.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_15.CountingToHundred/target/classes/CountingToHundred.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_16.FromWhereToWhere/target/classes/FromWhereToWhere.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_16.FromWhereToWhere/target/classes/FromWhereToWhere.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_17.SumOfASequence/target/classes/SumOfASequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_17.SumOfASequence/target/classes/SumOfASequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_18.SumOfASequenceTheSequel/target/classes/SumOfASequenceTheSequel.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_18.SumOfASequenceTheSequel/target/classes/SumOfASequenceTheSequel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_19.Factorial/target/classes/Factorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_19.Factorial/target/classes/Factorial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_20.RepeatingBreakingAndRemembering/target/classes/RepeatingBreakingAndRemembering.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_20.RepeatingBreakingAndRemembering/target/classes/RepeatingBreakingAndRemembering.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_22.Reprint/target/classes/Reprint.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_22.Reprint/target/classes/Reprint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_23.FromOneToParameter/target/classes/FromOneToParameter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_23.FromOneToParameter/target/classes/FromOneToParameter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_24.FromParameterToOne/target/classes/FromParameterToOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_24.FromParameterToOne/target/classes/FromParameterToOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_25.Division/target/classes/Division.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_25.Division/target/classes/Division.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_27.NumberUno/target/classes/NumberUno.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_27.NumberUno/target/classes/NumberUno.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_28.Word/target/classes/Word.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_28.Word/target/classes/Word.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_29.Summation/target/classes/Summation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_29.Summation/target/classes/Summation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_30.Smallest/target/classes/Smallest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_30.Smallest/target/classes/Smallest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_31.Greatest/target/classes/Greatest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_31.Greatest/target/classes/Greatest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_32.Averaging/target/classes/Averaging.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_32.Averaging/target/classes/Averaging.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_34.AdvancedAstrology/src/main/java/AdvancedAstrology.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_34.AdvancedAstrology/src/main/java/AdvancedAstrology.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part02-Part02_34.AdvancedAstrology/target/classes/AdvancedAstrology.class" beforeDir="false" afterPath="$PROJECT_DIR$/../part02-Part02_34.AdvancedAstrology/target/classes/AdvancedAstrology.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part03-Part03_19.IndexWasNotFound/src/main/java/IndexWasNotFound.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part03-Part03_19.IndexWasNotFound/src/main/java/IndexWasNotFound.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1llMmVQnOxlnAfsDUlYwhBGgps5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86d30483-2d3e-48ff-beef-b0a33ba5f319" name="Default Changelist" comment="" />
+      <created>1608167386091</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608167386091</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
